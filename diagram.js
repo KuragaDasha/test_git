@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     %% Корневой узел
     IAAC["ГКУ ИАЦ в сфере здравоохранения г. Москвы"]
@@ -199,3 +200,4 @@ graph LR
         UpravPerson --> Kadry["Отдел кадров"]
         UpravPerson --> RabSPerson["Отдел по работе с персоналом"]
     end
+```
